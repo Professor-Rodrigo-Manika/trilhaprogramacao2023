@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background: linear-gradient(90deg, #B3BB5A 59.61%, rgba(179, 187, 90, 0.526042) 67.57%);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 24px 0;
+    
+}
+
+.logo{
+    width: 20%;
+    border-radius: 10%;
+    margin-left: 10%;
+}
+
+.listaitem{
+    display: inline-block;
+    margin-top: 30%;
+    padding-left: 80px;
+    text-transform: uppercase;
+    font-size: 24px;
+}
+
+body{
+    background-image: linear-gradient(to right, #7454B8, #54B8AC);
+    color: white;
+}
+
+.subtitulo{
+    color: white;
+}
+
+
+.bichos{
+    display: inline-flex;
+    width: 20%;
+    border-radius: 20%;
+    padding-left: 40px;
+
+}
+
+p{
+    padding: 10px;
+}
+
+h2{
+    display: inline-flex;
+    color: black;
+    justify-content: space-between;
+    padding-left: 50px;
+}
+
+.texto-principal{
+    width: 40%;
+    padding-left: 20%;
+}
+
+.imagemprincipal{
+    width:30%;
+    padding-right: 20%;
+    padding-bottom: 10%;
+}
+
+.descricao{
+       color: white;
+       display: flex;
+       justify-content: center;
+}
+
+.nome{
+    margin-left: 100px;
+    color: #FFFFFF;
+}
